@@ -1,5 +1,6 @@
 #gitignore
 .idea
 bower_components
+node_modules
 desktop.ini
 Thumbs.db
